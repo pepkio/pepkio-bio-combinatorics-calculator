@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Python client for Pepkio bio-combinatorics-calculator."""
 
 from .client import PepkioClient

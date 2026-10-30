@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Command-line interface for pepkio-bio-combinatorics-calculator."""
 
 from __future__ import annotations
