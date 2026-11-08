@@ -1,0 +1,24 @@
+{
+  "upload_type": "software",
+  "access_right": "open",
+  "title": "pepkio-bio-combinatorics-calculator v0.1.0 – a Python client for biological combinatorics and screening library design via the Pepkio life-science calculator suite",
+  "description": "Permanent archiving of **pepkio-bio-combinatorics-calculator** on Zenodo supplies a citable, version-pinned Python client for arbitrary-precision biological combinatorics, NGS index multiplexing capacities, IUPAC degenerate primer complexities, error-correcting barcode limits, and CRISPR screening cell scaling. The archived package preserves v0.1.0 to enable exact computational replication across automated workflows and laboratory protocols, delegating combinatorial math and biological models to the hosted Pepkio calculator API without embedding solvers locally. Source code and the issue tracker are maintained at https://github.com/pepkio/pepkio-bio-combinatorics-calculator. The primary interactive platform for the same calculations is the [Pepkio Bio Combinatorics Calculator](https://www.pepkio.com/tools/bio-combinatorics-calculator), part of a Pepkio suite of more than thirty web tools covering solution prep, PCR, cell culture, assays, pharmacology, education, and sequence utilities. The Python client supports batch combinatorial evaluations and workflow orchestration in Jupyter, Nextflow, and Snakemake pipelines. Released under the MIT License; Pepkio (https://www.pepkio.com/) develops laboratory calculators and analysis services (https://www.pepkio.com/cro) for life science research.",
+  "notes": "**Suggested citation.** When referencing the archived client in a publication, cite the Zenodo DOI together with the GitHub repository (https://github.com/pepkio/pepkio-bio-combinatorics-calculator) and record the client version (v0.1.0) in methods or supplementary materials.\n\n**Programmatic access.** This client is the recommended interface for scripted calls to the Pepkio Bio Combinatorics Calculator API; the interactive web application remains available for manual combinatorial designs. Calculator logic resides on Pepkio servers; this package transmits parameters and returns structured results only.\n\nA semantic, AI-native version of this document in the K2F format is available at https://k2f.dev (https://k2f.dev/v/0319a1dfc12b16997fdc15e1423dcedbf15c2fd4ba70b5021e9758ca70573d93)",
+  "version": "0.1.0",
+  "license": "mit",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Pepkio",
+      "affiliation": "Pepkio"
+    }
+  ],
+  "keywords": [
+    "Python client for lab calculators",
+    "biological combinatorics",
+    "NGS multiplexing",
+    "CRISPR screening",
+    "bioinformatics",
+    "reproducible research"
+  ]
+}
